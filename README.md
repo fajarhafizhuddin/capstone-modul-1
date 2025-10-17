@@ -4,16 +4,15 @@
 Program ini merupakan **aplikasi CRUD (Create, Read, Update, Delete)** berbasis **Python** yang digunakan untuk mengelola **data pasien rumah sakit**.  
 Semua proses dilakukan melalui **terminal/command prompt**, dengan sistem **login admin** untuk menjaga keamanan data.
 
-Program ini cocok untuk latihan dasar:
-- Struktur data Python (list dan dictionary)
-- Percabangan (`if`, `else`, `while`)
-- Fungsi (`def`)
-- Manipulasi data list
-- Input/output berbasis teks
+Program ini menggunakan:
+- Collection data type (list dan dictionary)
+- Conditional (`if`, `else`, `while`)
+- Regular Function (`def`)
+- Input/output text
 
 ---
 
-## Fitur Utama
+## Fitur 
 ### 1. **Login Sistem**
 Sebelum mengakses menu utama, pengguna harus login dengan memasukkan username dan password berikut:
 - **Username:** `admin`
