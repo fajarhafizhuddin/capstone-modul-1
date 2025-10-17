@@ -107,18 +107,4 @@ Memilih opsi **5** pada menu utama akan menghentikan program dengan menampilkan 
    - `tambah_pasien()`
    - `ubah_pasien()`
    - `hapus_pasien()`
-4. Semua fungsi memiliki opsi untuk **kembali ke menu utama** tanpa melakukan perubahan data.
-
----
-
-## Teknologi yang Digunakan
-- Bahasa: **Python**
-- Tipe Data: **List** dan **Dictionary**
-- Logika: **Percabangan**, **Perulangan**, dan **Input/Output**
-
----
-
-## Catatan Tambahan
-- ID pasien memiliki format `RM-XXX`, dengan angka yang bertambah otomatis dari ID terakhir.  
-- Program ini berjalan di **terminal** tanpa memerlukan database eksternal.  
-- Cocok untuk latihan dasar manajemen data berbasis teks di Python.
+4. Semua menu memiliki opsi untuk **kembali ke menu utama** tanpa melakukan perubahan data.
