@@ -88,7 +88,7 @@ def tambah_pasien():
     if len(data_pasien) == 0:
         id_baru = "RM-001"
     else:
-        id_terakhir = data_pasien[-1]["id"]  # contoh: RM-005
+        id_terakhir = data_pasien[-1]["id"] 
         nomor_terakhir = int(id_terakhir.split("-")[1])
         id_baru = f"RM-{nomor_terakhir + 1:03d}"
     nama = input("Masukkan nama pasien: ").title()
