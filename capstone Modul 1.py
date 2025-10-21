@@ -84,7 +84,6 @@ def tambah_pasien():
     if kembali == "1":
         return
 
-    # Ambil ID terakhir
     if len(data_pasien) == 0:
         id_baru = "RM-001"
     else:
